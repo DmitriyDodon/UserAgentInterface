@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Service\UserAgent;
+namespace InterfaceUA\dmitriy;
 
 
 interface UserAgentInterface
