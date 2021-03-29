@@ -1,0 +1,8 @@
+{
+  "name": "dmitriy/useragentinterface",
+  "autoload": {
+    "psr-4": {
+      "InterfaceUA\\dmitriy\\": "src/"
+    }
+  }
+}
